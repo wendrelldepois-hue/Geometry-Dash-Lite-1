@@ -27,3 +27,4 @@
 <img width="196" height="196" alt="download (4)" src="https://github.com/user-attachments/assets/fe9780e3-d4af-4c0d-af75-18ddb8c52aaf" />
 +
 <img width="224" height="224" alt="softonic-helper-icon" src="https://github.com/user-attachments/assets/faafe4fd-503c-48fd-a1d4-c63fd4f15e6d" />
+https://www.softonic.com.br/download/geometry-dash-lite/android/post-download?dt=internalDownload
